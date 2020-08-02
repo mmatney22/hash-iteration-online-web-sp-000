@@ -5,3 +5,9 @@
 # suite_d: "Charlie Chaplin",
 # suite_e: "Crumpet the Elf"
 # }
+
+def select_winner
+  passengers.each do |suite, name|
+
+  end
+end
